@@ -54,6 +54,10 @@ body {
   background: #fff;
 }
 
+#github-link {
+  text-decoration: none;
+}
+
 .search-bar {
   margin: 110px 0;
 }
